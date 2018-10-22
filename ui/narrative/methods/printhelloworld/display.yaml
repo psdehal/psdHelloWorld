@@ -1,7 +1,7 @@
 #
 # define display information
 #
-name: Method Name Here
+name: Paramvir's Hello World
 
 tooltip: |
     Perform some kind of method
@@ -29,9 +29,9 @@ suggestions:
 # Configure the display and description of parameters
 #
 parameters :
-    parameter_1 :
+    phrase :
         ui-name : |
-            First parameter
+            Phrase
         short-hint : |
             The first parameter
         long-hint  : |
